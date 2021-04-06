@@ -1,2 +1,2 @@
 # Scrabble
-The game is the best scrabble game you never find elsewhere
+This Game is the best Scrabble Game you never find elsewhere
